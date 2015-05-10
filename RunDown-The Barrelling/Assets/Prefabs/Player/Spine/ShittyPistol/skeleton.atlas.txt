@@ -1,0 +1,40 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ShittyPistol
+  rotate: false
+  xy: 2, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+ShittyPistolNoHandle
+  rotate: false
+  xy: 2, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SpineHands
+  rotate: false
+  xy: 2, 404
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
+SpineHands1
+  rotate: false
+  xy: 2, 2
+  size: 640, 400
+  orig: 640, 400
+  offset: 0, 0
+  index: -1
